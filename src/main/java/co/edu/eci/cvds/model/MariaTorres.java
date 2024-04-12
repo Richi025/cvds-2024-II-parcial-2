@@ -23,7 +23,7 @@ public class MariaTorres {
     public MariaTorres(String numero, String respuesta, String argumento) {
         this.numero = numero;
         this.respuesta = respuesta;
-        this.argumento= argumento;
+        this.argumento = argumento;
     }
 
     public String getnumero() {
